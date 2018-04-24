@@ -1,5 +1,5 @@
 # AutoScratcher
-Simple NodeJS based tool to set up a scratch org, it pulls source, creates an org, pushes the source and runs an apex class after this is complete
+Simple NodeJS based tool to set up a scratch org; It pull source from git  creates an org, pushes the source and runs an apex class after this is complete
 
 Configuration for the tool is held in `config.json`, see below example
 
